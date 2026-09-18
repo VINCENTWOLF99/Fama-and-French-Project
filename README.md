@@ -1,4 +1,4 @@
-# Fama-and-French-Project
+# Python Project
 Analysis of Fama–French Model Assumptions and Regression Diagnostics: GARCH Modelling and Stock Clustering
 # Fama–French Diagnostics, GARCH Modelling and Stock Clustering
 
